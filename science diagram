@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T11:07:50.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="9IPd8zmam6seA74ZZb8v" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T11:09:27.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="eXXRpDNOu7D_xv57_7HH" version="23.1.5" type="github">
   <diagram name="Page-1" id="32FoDm3n_-XUEFDBFI-T">
     <mxGraphModel dx="794" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,6 +19,9 @@
         <mxCell id="5Pkr9Jq3ypyxmmrWBaKK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Pkr9Jq3ypyxmmrWBaKK-13" target="5Pkr9Jq3ypyxmmrWBaKK-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5Pkr9Jq3ypyxmmrWBaKK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Pkr9Jq3ypyxmmrWBaKK-6" target="5Pkr9Jq3ypyxmmrWBaKK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5Pkr9Jq3ypyxmmrWBaKK-6" value="the pancreas&#39; beta cells detects this change " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="-90" width="140" height="60" as="geometry" />
         </mxCell>
@@ -26,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Pkr9Jq3ypyxmmrWBaKK-8" value="the insulin causes the bodys cells to absorb glucose" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Pkr9Jq3ypyxmmrWBaKK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Pkr9Jq3ypyxmmrWBaKK-9" target="5Pkr9Jq3ypyxmmrWBaKK-1">
           <mxGeometry relative="1" as="geometry">
@@ -46,6 +49,15 @@
         </mxCell>
         <mxCell id="5Pkr9Jq3ypyxmmrWBaKK-13" value="&lt;br&gt;then the alpha cells release insulin&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pkr9Jq3ypyxmmrWBaKK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Pkr9Jq3ypyxmmrWBaKK-16" target="5Pkr9Jq3ypyxmmrWBaKK-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pkr9Jq3ypyxmmrWBaKK-16" value="type one diabetes prevents the production of insulin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pkr9Jq3ypyxmmrWBaKK-18" value="blood glucose levels continue rising" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
